@@ -38,5 +38,7 @@ return {
       mods = 'NONE',
       action = wezterm.action.Paste,
     },
-  }
+  },
+  initial_rows = 40,
+  initial_cols = 150,
 }
